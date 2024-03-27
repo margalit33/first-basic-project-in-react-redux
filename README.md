@@ -2,6 +2,28 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+
+This project is a demonstration of a full CRUD (Create, Read, Update, Delete) application built using React Redux in the frontend and Django in the backend.
+It includes authentication with login functionality and token-based authentication.
+
+Features
+Full CRUD functionality in the frontend.
+User authentication with login functionality.
+Token-based authentication for secure API requests.
+Backend implemented using Django.
+Technologies Used
+React
+Redux
+Django
+Django REST Framework
+Axios (for API requests)
+Bootstrap (for styling)
+
+Usage
+Register a new user or login with existing credentials.
+Perform CRUD operations on the provided entities.
+Logout to securely terminate the session.
+
 ## Available Scripts
 
 In the project directory, you can run:
